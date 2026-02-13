@@ -2,7 +2,12 @@
 
 > _High-Fidelity Steganographic Transport Layer via Chess PGNs_
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-yellow.svg) ![Architecture](https://img.shields.io/badge/architecture-deterministic-purple.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-yellow.svg) ![Architecture](https://img.shields.io/badge/architecture-deterministic-purple.svg) ![Web](https://img.shields.io/badge/web-react-cyan.svg)
+
+## 🌐 Web Interface
+
+Access the signal visualization and conceptual overview:
+**[View Deployment](https://solvyreryx.github.io/BlackSquare/)**
 
 ## 📜 Overview
 
